@@ -1,0 +1,41 @@
+header{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+nav{
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+	position: relative;
+}
+
+ul{
+	display: flex;
+}
+
+li{
+	margin: 13px;
+	font-size: 18px;
+	text-align: center;
+	width: 100px;
+	margin-top: 19px;
+	list-style:none;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 25PX;
+}
+
+img{
+
+}
+
+h1{
+
+}
+
+p{
+
+}
